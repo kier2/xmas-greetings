@@ -2,7 +2,7 @@ const person = [
     {
         name:'jules anzures',
         img:'https://scontent.fdvo1-1.fna.fbcdn.net/v/t1.6435-9/93520180_10213107502281960_1767105358397964288_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo7pr_PQFlT7_8SNULoYM2MCbQhW2xW6gwJtCFbbFbqMD3uFCXtkj6IZmVqPXUuBknewzQoYXetqJ7Gs6EnK4_&_nc_ohc=9gtlOlQuhgQAX9vc9DT&_nc_ht=scontent.fdvo1-1.fna&oh=00_AT8CPRpwf_bir3MDskbVL7ly8sFMfgcwceKvSQn4yh7AOQ&oe=61EA4D30',
-        link:'https://kier2.github.io/xmas-greetings/index.html#crystal-fairy',
+        link:'https://kier2.github.io/xmas-greetings/#crystal-fairy',
         alias:'Crystal Fairy'
     },
     {
