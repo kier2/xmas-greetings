@@ -61,6 +61,7 @@ function showInfo(){
             personImg.setAttribute('src', per.img)
             personName.innerText = per.name
             personAlias.innerText = per.alias
+            console.log(per.img)
         } 
     })
 }
