@@ -8,7 +8,7 @@ const person = [
     {
         name:'kier en',
         img:'./assets/img/k.png',
-        link:'https://kier2.github.io/xmas-greetings/index.html',
+        link:'https://kier2.github.io/xmas-greetings/',
         alias:'Unknown'
     },
     {
