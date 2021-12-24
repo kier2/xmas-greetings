@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+main{
+    width: 100%;
+    height: 100%;
+    background: url(./assets/img/Christmas_background.jpg) no-repeat center center/cover;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    margin-top: 1rem;
+    font-size: 4.3rem;
+    color: #fff9c3;
+    line-height: 2;
+    margin-bottom: .3em;
+    font-weight: 700;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url(./assets/img/stripe-yellow.jpg);
+    animation: runningBg 10s infinite alternate forwards 200ms;
+    font-family: 'Pacifico',
+    cursive;
+}
+@keyframes runningBg {
+    from{
+        background-position: 50%;
+    }
+    to{
+        background-position: 100%;
+    }
+}
+h6{
+    font-size: 1.3rem;
+    color: #fff9c6;
+    text-transform: capitalize;
+    font-family: 'Dosis',
+    sans-serif;
+    font-weight: 600;
+}
+.separator{
+    width: 3%;
+    height:1px;
+    background: rgba(255, 249, 195, 0.822);
+    margin-bottom: 1.8em;
+}
+img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border:8px solid #e7c67a;
+    margin-bottom: 2.3em;
+    transition: ease 200ms;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+img:hover{
+    animation: pulse 1s infinite alternate .3s forwards;
+}
+.alias{
+    margin: .5em 0;
+    font-size: .9rem;
+    font-family: 'Dosis',
+    sans-serif;
+}
+.colored{
+    color:#fff9c6;
+    opacity: .9;
+    margin-left: .2em;
+}
+@keyframes pulse {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+@media (max-width:900px) {
+    main {
+        width: 100%;
+        height: 100%;
+        background: url(./assets/img/mobile.png) no-repeat center center/cover;
+    }
+    h1{
+        line-height: 1.5;
+        margin-bottom: .7em
+    }
+    .separator{
+        width: 5%;
+    }
+}
