@@ -47,6 +47,12 @@ const person = [
         link:'https://kier2.github.io/xmas-greetings/#ar',
         alias:'The Fixer'
     },
+    {
+        name:'Arnie Africa',
+        img:'https://scontent.fceb1-2.fna.fbcdn.net/v/t1.6435-1/p200x200/158030621_10159329011287287_1390255626255178923_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEC0iEuG-utR-jnsw_fWo5w5Gu212KEhHjka7bXYoSEeJMNgB_gBGaHDSAEFnMlR23yVjW0HaQAavn2NjDZCulS&_nc_ohc=34eChqJdIr8AX9ScCrO&_nc_ht=scontent.fceb1-2.fna&oh=00_AT8WrRJtKW8h23BXq7m90nnps4Ye96Cacu0QOqVPvsjhOg&oe=61EC43BE',
+        link:'https://kier2.github.io/xmas-greetings/#aq',
+        alias:'Akong ante na gwapa'
+    },
 ]
 
 const personImg = document.querySelector('#person-img')
