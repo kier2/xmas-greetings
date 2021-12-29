@@ -53,6 +53,12 @@ const person = [
         link:'https://kier2.github.io/xmas-greetings/#aq',
         alias:'Akong ante na gwapa'
     },
+    {
+        name:'Anna Mae Ybo Dales',
+        img:'https://scontent.fceb1-3.fna.fbcdn.net/v/t39.30808-6/254554421_1072779723486553_3215898660096792368_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE7yqcVLZmWaqS-AsBBYCS-ujrTZ2lTKpG6OtNnaVMqkZude0g6AYD_auwYnUioW3HBwHoPhXp5_XWk5dHhXWOl&_nc_ohc=EOjGnXjw6e8AX92Y1si&_nc_ht=scontent.fceb1-3.fna&oh=00_AT8RpXpXdZCf6IvoWk3k8a99IYrrSgIRxGm0seqlUPJulA&oe=61D0AE91',
+        link:'https://kier2.github.io/xmas-greetings/#amy',
+        alias:'TL Amy'
+    }
 ]
 
 const personImg = document.querySelector('#person-img')
