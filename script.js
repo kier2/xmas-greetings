@@ -13,7 +13,7 @@ const person = [
     },
     {
         name:'kier en',
-        img:'./assets/img/k.png',
+        img:'https://scontent.fcrk3-2.fna.fbcdn.net/v/t39.30808-6/276317572_2778926729077575_8811535419408242827_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEvI9NOspw8pjG7T_BXFtoNJNWzWqhhmJkk1bNaqGGYmWIKvuEs5RRkny52Z6Dl1ZJuLeLpzqUudqYtO2BpsT4-&_nc_ohc=DEAxqXiSmn0AX-gM3Ae&_nc_ht=scontent.fcrk3-2.fna&oh=00_AT-AKGGSDzsQbfOfkS70ANL7tU-LXwj4NhCAfWNU51Nn5A&oe=6244BDDD',
         link:'https://kier2.github.io/xmas-greetings/',
         alias:'Unknown'
     },
