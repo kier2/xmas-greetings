@@ -1,5 +1,11 @@
 const person = [
     {
+        name:'mushel racal',
+        img:'https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/276991420_2935997533358619_8897925838146334493_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGjbOqnS-cxCXnDTQDDa72zCGq2VEN41IIIarZUQ3jUglxNuHtsu8UyQJseea5PYxG9vxFf5ESXkL7N8ccvoqRo&_nc_ohc=vrnn2_OqVGkAX-rFVzY&_nc_ht=scontent.fcrk3-1.fna&oh=00_AT-iqnU_kZ3cMGBeqBkglNAL9U1N6H3IAh4xe3zjtGYgiQ&oe=62441754',
+        link:'https://kier2.github.io/xmas-greetings/#mylove',
+        alias:'Em Em'
+    },
+    {
         name:'jules anzures',
         img:'https://scontent.fdvo1-1.fna.fbcdn.net/v/t1.6435-9/93520180_10213107502281960_1767105358397964288_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo7pr_PQFlT7_8SNULoYM2MCbQhW2xW6gwJtCFbbFbqMD3uFCXtkj6IZmVqPXUuBknewzQoYXetqJ7Gs6EnK4_&_nc_ohc=9gtlOlQuhgQAX9vc9DT&_nc_ht=scontent.fdvo1-1.fna&oh=00_AT8CPRpwf_bir3MDskbVL7ly8sFMfgcwceKvSQn4yh7AOQ&oe=61EA4D30',
         link:'https://kier2.github.io/xmas-greetings/#crystal-fairy',
